@@ -51,5 +51,5 @@
             app:layout_constraintStart_toEndOf="@+id/imageView4" app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/logo"
-            android:layout_marginTop="64dp"/>
+            android:layout_marginTop="32dp"/>
 </android.support.constraint.ConstraintLayout>
